@@ -1,0 +1,15 @@
+Package: exBin
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ryan",
+           family = "Elmore",
+           role = c("aut", "cre"),
+           email = "Ryan.Elmore@du.edu",
+           comment = c(ORCID = "https://orcid.org/0000-0002-0092-4532"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
